@@ -1,0 +1,17 @@
+D:\Проги\Нов\РедакторИМ\РедакторИМ\bin\Release\РедакторИМ.exe.config
+D:\Проги\Нов\РедакторИМ\РедакторИМ\bin\Release\РедакторИМ.exe
+D:\Проги\Нов\РедакторИМ\РедакторИМ\bin\Release\РедакторИМ.pdb
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Release\ImEditor.Form1.resources
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Release\ImEditor.Form2.resources
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Release\ImEditor.Form3.resources
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Release\ImEditor.Form4.resources
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Release\ImEditor.Form5.resources
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Release\ImEditor.Form6.resources
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Release\ImEditor.Form7.resources
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Release\ImEditor.Form8.resources
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Release\ImEditor.Form9.resources
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Release\РедакторИМ.Properties.Resources.resources
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Release\ImEditor.csproj.GenerateResource.Cache
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Release\РедакторИМ.exe
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Release\РедакторИМ.pdb
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Release\ImEditor.csprojResolveAssemblyReference.cache

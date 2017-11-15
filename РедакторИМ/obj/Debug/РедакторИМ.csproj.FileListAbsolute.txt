@@ -1,0 +1,10 @@
+D:\Проги\Нов\РедакторИМ\РедакторИМ\bin\Debug\РедакторИМ.exe.config
+D:\Проги\Нов\РедакторИМ\РедакторИМ\bin\Debug\РедакторИМ.exe
+D:\Проги\Нов\РедакторИМ\РедакторИМ\bin\Debug\РедакторИМ.pdb
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Debug\РедакторИМ.csprojResolveAssemblyReference.cache
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Debug\РедакторИМ.Form1.resources
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Debug\РедакторИМ.Form2.resources
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Debug\РедакторИМ.Properties.Resources.resources
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Debug\РедакторИМ.csproj.GenerateResource.Cache
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Debug\РедакторИМ.exe
+D:\Проги\Нов\РедакторИМ\РедакторИМ\obj\Debug\РедакторИМ.pdb
